@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L0001">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://dracor.org/schema.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L0001" >
  <teiHeader>
   <fileDesc>
    <titleStmt><title>Time Tries All!: TEI edition</title><author>Courtney, John</author><respStmt><resp>TEI conversion</resp><name>Lou Burnard</name></respStmt></titleStmt>

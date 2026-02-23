@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L0157">
 <teiHeader>
 <fileDesc>
-<titleStmt><title>A Handsome Husband: TEI edition</title><author>Planché, Mrs. Elizabeth</author><respStmt><resp>TEI conversion</resp><name>Lou Burnard</name></respStmt></titleStmt>
+<titleStmt><title>A Handsome Husband: TEI edition</title><author>Planché, Eliza, Mrs</author><respStmt><resp>TEI conversion</resp><name>Lou Burnard</name></respStmt></titleStmt>
 <publicationStmt><distributor>Privately distributed by the Digital Lacy Project</distributor><idno type="LAE">L0157</idno><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">The Lacy Project waives all rights to the TEI encoding applied to this material, which is believed to be in the public domain. You may copy, modify, distribute and perform this work freely. </licence></availability></publicationStmt>
-<sourceDesc><bibl type="origin" n="11.7"><author>Planche, Mrs. Eliza</author><title type="main" n="ahandsomehusband">A Handsome Husband</title><title type="sub">A Comic Drama in one
+ <sourceDesc><bibl type="origin" n="11.7"><author>Planché, Eliza, Mrs.</author><title type="main" n="ahandsomehusband">A Handsome Husband</title><title type="sub">A Comic Drama in one
        Act</title><extent>27 pp (UM copy: 204 - 231)<measure type="pp" quantity="28"/>
   <measure type="spCount" quantity="426"/>
   <measure type="spvCount" quantity="0"/>
