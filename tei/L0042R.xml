@@ -2300,7 +2300,7 @@ stairs, Kitty.—Your 'squire as no taste.</p>
      </sp>
      <spGrp>
       <head>Song.</head>
-     <sp who="L0042R_F12">
+     <sp who="#L0042R_F12">
        <l>Come here, Fellow Servant, and listen to me,</l>
        <l>I'll show you how those of superior degree</l>
        <l>Are only dependants, no better than we.</l>
@@ -2313,7 +2313,7 @@ stairs, Kitty.—Your 'squire as no taste.</p>
        <l>And there, Fellow Servant,</l>
        <l>And all in a livery.</l>
       </sp>
-     <sp who="L0042R_F12">
+     <sp who="#L0042R_F12">
        <l>See yonder fine spark in embroidery drest,</l>
        <l>Who bows to the great, and if they smile is blest;</l>
        <l>What is he, i'faith, but a servant at best;</l>

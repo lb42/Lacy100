@@ -227,11 +227,10 @@
 </teiHeader>
 <text><pb n="1"/>
 <front>
-<titlePage><titlePart type="head">Duncombe’s Edition.</titlePart><titlePart type="main">The Battle of Waterloo, </titlePart><titlePart type="sub">a Grand Military Melodrama, in Three Acts </titlePart><byline>By <docAuthor>J. H. AMHERST</docAuthor> Author of <title>Buonaparte’s Invasion of Russia - The Invulnerable -
-Will Watch - Death of Christophe - Real Life in London - Monk, Mask, and
-Murderer - Death of Fair Rosamond - Shipwreck of the Grosvenor East - Indiaman,
-&amp; c.</title></byline>
- <titlePart type="performance">The only edition extant correctly marked with the stage business,
+ <titlePage><titlePart type="head">Duncombe’s Edition.</titlePart><titlePart type="main">The Battle of Waterloo, </titlePart><titlePart type="sub">a Grand Military Melodrama, in Three Acts </titlePart><byline>By <docAuthor>J. H. AMHERST</docAuthor> Author of <title>Buonaparte’s Invasion of Russia - </title><title>The Invulnerable -
+</title><title>Will Watch - </title><title>Death of Christophe - </title><title>Real Life in London - </title><title>Monk, Mask, and
+Murderer - </title><title>Death of Fair Rosamond - </title><title>Shipwreck of the Grosvenor East-Indiaman,
+&amp; c.</title></byline><titlePart type="performance">The only edition extant correctly marked with the stage business,
 situations, and directions. As it is performed at Astley’s Royal
 Amphitheatre.</titlePart><docImprint>London: Printed and published by Duncombe, 19, Little Queen Street,
 Holborn and sold by all booksellers in town and country</docImprint></titlePage>
@@ -355,7 +354,7 @@ perfect.</p>
 light; the patrole and sentinels in long characteristic cloaks, &amp;c.</stage>
 <spGrp>
 <head>GLEE AND CHORUS</head>
-<sp who="#L1470_mult">
+<sp who="#L1470_Mult">
 <l>‘Tis a cheerful sight,</l>
 <l>By the watch-fires light,</l>
 <l>To view the Prussian above and below;</l>
@@ -1191,7 +1190,7 @@ we go.</p>
 </sp>
 <spGrp>
 <head>GLEE AND CHORUS</head>
-<sp who="#L1470_mult">
+<sp who="#L1470_Mult">
 <l>May war, that source of sorrow,</l>
 <l>Ne’er cause us more to mourn,</l>
 <l>Mayst thou before to-morrow</l>
