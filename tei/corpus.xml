@@ -42,8 +42,8 @@
  <xi:include href="barrymore-elhyder.xml"/>
  <xi:include href="bernard-marieducange.xml"/>
  <xi:include href="berrie-captainsmith.xml"/>
-<xi:include href="boucicault-thecolleenbawn.xml"/>
- <xi:include href="boucicault-theoctoroon.xml"/>
+<!--<xi:include href="boucicault-thecolleenbawn.xml"/>
+--> <xi:include href="boucicault-theoctoroon.xml"/>
  <xi:include href="boucicault-theprimadonna.xml"/>
  <xi:include href="brooks-anythingforachange.xml"/>
  <xi:include href="brooks-thecreole.xml"/>
@@ -69,6 +69,7 @@
  <xi:include href="coyne-thewomaninred.xml"/>
  <xi:include href="coyne-whatwilltheysay.xml"/>
  <xi:include href="coyne-willikindandhisdinah.xml"/>
+ <xi:include href="daly-underthegaslight.xml"/>
  <xi:include href="dance-marriagealottery.xml"/>
  <xi:include href="dimond-stagestruck.xml"/>
  <xi:include href="fitzball-themillerofderwent.xml"/>
