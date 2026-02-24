@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lacy Drama Corpus</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>DraCor</publisher>
+        <idno type="URI" xml:base="https://dracor.org/">lacy</idno>
+        <idno type="repo">https://github.com/dracor-org/lacydracor</idno>
+        <availability>
+            <licence target="https://creativecommons.org/publicdomain/zero/1.0/">The Lacy Project waives
+            all rights to the TEI encoding applied to this material, which is believed to be in the public
+            domain. You may copy, modify, distribute, or perform this work freely. </licence>
+        </availability>
+      </publicationStmt>
+     <sourceDesc>
+      <p>This sample is taken from the <ref target="https://lb42.github.io/Lacy/">Digital Lacy Project</ref>. </p>
+     </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+         A sample of 100 plays taken from T.H. Lacy's Acting Edition of Victorian Plays (1848-1873)
+        </p>
+      </projectDesc>
+    </encodingDesc>
+    <revisionDesc>
+     <change when="2026-02-24">Dracorised and renamed files</change>
+      <change when="2026-02-14" status="proposed"/>
+    </revisionDesc>
+  </teiHeader>
+ 
+ <xi:include href="abeckett-thelastofthelegends.xml"/>
+ <xi:include href="almar-olivertwist.xml"/>
+ <xi:include href="amherst-thebattleofwaterloo.xml"/>
+ <xi:include href="anon-maryprice.xml"/>
+ <xi:include href="anon-aftertheparty.xml"/>
+ <xi:include href="archer-margueritescolours.xml"/>
+ <xi:include href="barnett-thebolddragoons.xml"/>
+ <xi:include href="barrymore-elhyder.xml"/>
+ <xi:include href="bernard-marieducange.xml"/>
+ <xi:include href="berrie-captainsmith.xml"/>
+<xi:include href="boucicault-thecolleenbawn.xml"/>
+ <xi:include href="boucicault-theoctoroon.xml"/>
+ <xi:include href="boucicault-theprimadonna.xml"/>
+ <xi:include href="brooks-anythingforachange.xml"/>
+ <xi:include href="brooks-thecreole.xml"/>
+ <xi:include href="brooks-theexposition.xml"/>
+ <xi:include href="brough-apartments.xml"/>
+ <xi:include href="brough-perdita.xml"/>
+ <xi:include href="brough-rasselas.xml"/>
+ <xi:include href="brough-thecolleenbawnsettled.xml"/>
+ <xi:include href="buckingham-aggravatingsam.xml"/>
+ <xi:include href="buckstone-aroughdiamond.xml"/>
+ <xi:include href="burnand-villikinsandhisdinah.xml"/>
+ <xi:include href="byron-1863.xml"/>
+ <xi:include href="byron-robinsoncrusoe.xml"/>
+ <xi:include href="byron-thecorsicanbothers.xml"/>
+ <xi:include href="byron-wartotheknife.xml"/>
+ <xi:include href="cavendish-thewomanoftheworld.xml"/>
+ <xi:include href="cheltnam-graceholden.xml"/>
+ <!--<xi:include href="corpus.xml"/>-->
+ <xi:include href="courtney-belphegor.xml"/>
+ <xi:include href="courtney-timetriesall.xml"/>
+ <xi:include href="coyne-aduelinthedark.xml"/>
+ <xi:include href="coyne-boxandcoxmarried.xml"/>
+ <xi:include href="coyne-thewomaninred.xml"/>
+ <xi:include href="coyne-whatwilltheysay.xml"/>
+ <xi:include href="coyne-willikindandhisdinah.xml"/>
+ <xi:include href="dance-marriagealottery.xml"/>
+ <xi:include href="dimond-stagestruck.xml"/>
+ <xi:include href="fitzball-themillerofderwent.xml"/>
+ <xi:include href="gilbert-anoldscore.xml"/>
+ <xi:include href="gilbert-onguard.xml"/>
+ <xi:include href="haines-mypollandmypartnerjoe.xml"/>
+ <xi:include href="harris-ruthven.xml"/>
+ <xi:include href="hazlewood-flowermakers.xml"/>
+ <xi:include href="heron-medea.xml"/>
+ <xi:include href="horne-thedeathofmarlowe.xml"/>
+ <xi:include href="jerrold-ambrosegwinett.xml"/>
+ <xi:include href="jerrold-beaubrummel.xml"/>
+ <xi:include href="johnstone-benbolt.xml"/>
+ <xi:include href="lewes-achainofevents.xml"/>
+ <xi:include href="lewis-thebells.xml"/>
+ <xi:include href="macready-theirishmaninlondon.xml"/>
+ <xi:include href="marston-ahardstruggle.xml"/>
+ <xi:include href="massinger-anewwaytopayolddebts.xml"/>
+ <xi:include href="milner-frankenstein.xml"/>
+ <xi:include href="milner-mazeppa.xml"/>
+ <xi:include href="morton-adesperategame.xml"/>
+ <xi:include href="morton-athumpinglegacy.xml"/>
+ <xi:include href="morton-betseybaker.xml"/>
+ <xi:include href="morton-boxandcox.xml"/>
+ <xi:include href="morton-howstoutyouregetting.xml"/>
+ <xi:include href="morton-waitingforanomnibus.xml"/>
+ <xi:include href="morton-woodcockslittlegame.xml"/>
+ <xi:include href="oxenford-retainedforthedefence.xml"/>
+ <xi:include href="oxenford-twicekilled.xml"/>
+ <xi:include href="paul-lockedout.xml"/>
+ <xi:include href="phillips-anorganicaffection.xml"/>
+ <xi:include href="phillips-hislastvictory.xml"/>
+ <xi:include href="phillips-notguilty.xml"/>
+ <xi:include href="phillips-themasterpassion.xml"/>
+ <xi:include href="pitt-thejerseygirl.xml"/>
+ <xi:include href="planche-ahandsomehusband.xml"/>
+ <xi:include href="planche-thecampattheolympic.xml"/>
+ <xi:include href="planche-thegarrickfever.xml"/>
+ <xi:include href="planche-thegoldenbranch.xml"/>
+ <xi:include href="planche-theirishpost.xml"/>
+ <xi:include href="planche-thejacobite.xml"/>
+ <xi:include href="planche-theloanofalover.xml"/>
+ <xi:include href="planche-thesleepingbeauty.xml"/>
+ <xi:include href="poole-scapegoat.xml"/>
+ <xi:include href="poole-twouldpuzzleaconjuror.xml"/>
+ <xi:include href="reece-theverylastdays.xml"/>
+ <xi:include href="reeve-neverreckon.xml"/>
+ <xi:include href="robertson-society.xml"/>
+ <xi:include href="robertson-thecantab.xml"/>
+ <xi:include href="robertson-twogaydeceivers.xml"/>
+ <xi:include href="shakespeare-macbeth.xml"/>
+ <xi:include href="simpson-theschoolforcoquettes.xml"/>
+ <xi:include href="stirling-theriflevolunteers.xml"/>
+ <xi:include href="suter-dred.xml"/>
+ <xi:include href="suter-ladyaudleyssecret.xml"/>
+ <xi:include href="suter-wantedayounglady.xml"/>
+ <xi:include href="taylor-noveltyfair.xml"/>
+ <xi:include href="taylor-plotandpassion.xml"/>
+ <xi:include href="taylor-upatthehills.xml"/>
+ <xi:include href="townley-highlife.xml"/>
+ <xi:include href="vicars-inthreevolumes.xml"/>
+ <xi:include href="wilks-bamboozling.xml"/>
+ <xi:include href="williams-cartedevisite.xml"/>
+ <xi:include href="williams-icionparlefrançais.xml"/>
+</teiCorpus>
+
