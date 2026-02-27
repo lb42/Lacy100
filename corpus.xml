@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lacy Drama Corpus</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>DraCor</publisher>
+        <idno type="URI" xml:base="https://dracor.org/">lacy</idno>
+        <idno type="repo">https://github.com/dracor-org/lacydracor</idno>
+        <availability>
+            <licence target="https://creativecommons.org/publicdomain/zero/1.0/">The Lacy Project waives
+            all rights to the TEI encoding applied to this material, which is believed to be in the public
+            domain. You may copy, modify, distribute, or perform this work freely. </licence>
+        </availability>
+      </publicationStmt>
+     <sourceDesc>
+      <p>This sample is taken from the <ref target="https://lb42.github.io/Lacy/">Digital Lacy Project</ref>. </p>
+     </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+         A sample of 100 plays taken from T.H. Lacy's Acting Edition of Victorian Plays (1848-1873)
+        </p>
+      </projectDesc>
+    </encodingDesc>
+    <revisionDesc>
+     <change when="2026-02-24">Made @href values absolute</change>
+     <change when="2026-02-24">Dracorised and renamed files</change>
+      <change when="2026-02-14" status="proposed"/>
+    </revisionDesc>
+  </teiHeader>
+ 
+ <xi:include href="https://github.com/lb42/Lacy100/tei/abeckett-thelastofthelegends.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/almar-olivertwist.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/amherst-thebattleofwaterloo.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/anon-maryprice.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/anon-aftertheparty.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/archer-margueritescolours.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/barnett-thebolddragoons.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/barrymore-elhyder.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/bernard-marieducange.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/berrie-captainsmith.xml"/>
+<!--<xi:include href="https://github.com/lb42/Lacy100/tei/boucicault-thecolleenbawn.xml"/>
+--> <xi:include href="https://github.com/lb42/Lacy100/tei/boucicault-theoctoroon.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/boucicault-theprimadonna.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/brooks-anythingforachange.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/brooks-thecreole.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/brooks-theexposition.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/brough-apartments.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/brough-perdita.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/brough-rasselas.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/brough-thecolleenbawnsettled.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/buckingham-aggravatingsam.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/buckstone-aroughdiamond.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/burnand-villikinsandhisdinah.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/byron-1863.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/byron-robinsoncrusoe.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/byron-thecorsicanbothers.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/byron-wartotheknife.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/cavendish-thewomanoftheworld.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/cheltnam-graceholden.xml"/>
+ <!--<xi:include href="https://github.com/lb42/Lacy100/tei/corpus.xml"/>-->
+ <xi:include href="https://github.com/lb42/Lacy100/tei/courtney-belphegor.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/courtney-timetriesall.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/coyne-aduelinthedark.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/coyne-boxandcoxmarried.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/coyne-thewomaninred.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/coyne-whatwilltheysay.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/coyne-willikindandhisdinah.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/daly-underthegaslight.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/dance-marriagealottery.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/dimond-stagestruck.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/fitzball-themillerofderwent.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/gilbert-anoldscore.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/gilbert-onguard.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/haines-mypollandmypartnerjoe.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/harris-ruthven.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/hazlewood-flowermakers.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/heron-medea.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/horne-thedeathofmarlowe.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/jerrold-ambrosegwinett.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/jerrold-beaubrummel.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/johnstone-benbolt.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/lewes-achainofevents.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/lewis-thebells.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/macready-theirishmaninlondon.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/marston-ahardstruggle.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/massinger-anewwaytopayolddebts.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/milner-frankenstein.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/milner-mazeppa.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/morton-adesperategame.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/morton-athumpinglegacy.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/morton-betseybaker.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/morton-boxandcox.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/morton-howstoutyouregetting.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/morton-waitingforanomnibus.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/morton-woodcockslittlegame.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/oxenford-retainedforthedefence.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/oxenford-twicekilled.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/paul-lockedout.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/phillips-anorganicaffection.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/phillips-hislastvictory.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/phillips-notguilty.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/phillips-themasterpassion.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/pitt-thejerseygirl.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/planche-ahandsomehusband.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/planche-thecampattheolympic.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/planche-thegarrickfever.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/planche-thegoldenbranch.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/planche-theirishpost.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/planche-thejacobite.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/planche-theloanofalover.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/planche-thesleepingbeauty.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/poole-scapegoat.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/poole-twouldpuzzleaconjuror.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/reece-theverylastdays.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/reeve-neverreckon.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/robertson-society.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/robertson-thecantab.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/robertson-twogaydeceivers.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/shakespeare-macbeth.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/simpson-theschoolforcoquettes.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/stirling-theriflevolunteers.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/suter-dred.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/suter-ladyaudleyssecret.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/suter-wantedayounglady.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/taylor-noveltyfair.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/taylor-plotandpassion.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/taylor-upatthehills.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/townley-highlife.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/vicars-inthreevolumes.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/wilks-bamboozling.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/williams-cartedevisite.xml"/>
+ <xi:include href="https://github.com/lb42/Lacy100/tei/williams-icionparlefrancais.xml"/>
+</teiCorpus>
+
