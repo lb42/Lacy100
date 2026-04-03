@@ -1,26 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1188" xml:lang="en">
  <teiHeader>
   <fileDesc>
-   <titleStmt><title>THE PEEP-SHOW MAN.: TEI edition</title><author ref="lacyp:W0333"><persName>Williams, Thomas J. </persName><idno type="wikidata">Q105946226</idno></author><respStmt><resp>TEI conversion</resp><name>Lou Burnard</name></respStmt></titleStmt>
-   <publicationStmt><distributor>Privately distributed by the Digital Lacy Project</distributor><idno type="LAE">L1188</idno><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">The Lacy Project waives all rights to the TEI encoding applied to this material, which it believes to be in the public domain. You may copy, modify, distribute, or perform this work freely. </licence></availability></publicationStmt>
-   <sourceDesc><bibl type="originalSource" n="80.3"><author>Williams, Thomas J.</author> <title type="main" n="thepeepshowman">The Peep-Show Man</title> <title type="sub">A Drama in two
-       acts</title>
- <extent>44 pp (UM copy: 70 - 114)<measure type="pp" quantity="44"/>
-  <measure type="spCount" quantity="449"/>
-  <measure type="spvCount" quantity="0"/>
-  <measure type="txWords" quantity="15746"/>
-  <measure type="spWords" quantity="11602"/>
-  <measure type="stWords" quantity="4144"/>
-  </extent>
-       <title level="s"> Lacy's Acting Edition, volume 80, No. 1188</title><idno type="nic">N19891</idno><idno type="vpp">Vol80iiiPeep</idno></bibl><bibl type="surrogate" subtype="copytext"><ref target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015067453590&amp;seq=70 ">UM from
-       HT</ref><ref target="local:Vol80/L1188/L1188-um.pdf"/></bibl><listEvent>
-      <event type="firstPerf" when="1868-02-10" source="textNic" where="Surrey">
-       <desc>Premiered at New Surrey Theatre 10 Feb. 1868</desc>
-      </event>
-     </listEvent></sourceDesc>
+   <titleStmt>
+    <title>The Peep-Show Man : TEI edition</title>
+    <author ref="lacyp:W0333"><persName>Williams, Thomas J. </persName><idno type="wikidata">Q105946226</idno></author>
+    <respStmt>
+     <resp>TEI conversion</resp>
+     <name>Lou Burnard</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>Privately distributed by the Digital Lacy Project</distributor>
+    <idno type="LAE">L1188</idno>
+    <availability>
+     <licence target="https://creativecommons.org/publicdomain/zero/1.0/">The Lacy Project waives
+      all rights to the TEI encoding applied to this material, which it believes to be in the public
+      domain. You may copy, modify, distribute, or perform this work freely. </licence>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl type="originalSource" n="80.3"><author>Williams, Thomas J.</author>
+     <title type="main" n="thepeepshowman">The Peep-Show Man</title>
+     <title type="sub">A Drama in two acts</title>
+     <extent>44 pp (UM copy: 70 - 114)<measure type="pp" quantity="44"/>
+      <measure type="spCount" quantity="449"/>
+      <measure type="spvCount" quantity="0"/>
+      <measure type="txWords" quantity="15746"/>
+      <measure type="spWords" quantity="11602"/>
+      <measure type="stWords" quantity="4144"/>
+     </extent>
+     <title level="s"> Lacy's Acting Edition, volume 80, No. 1188</title><idno type="nic">N19891</idno><idno type="vpp">Vol80iiiPeep</idno></bibl>
+    <bibl type="surrogate" subtype="copytext"><ref target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015067453590&amp;seq=70 ">UM from
+      HT</ref><ref target="local:Vol80/L1188/L1188-um.pdf"/></bibl>
+    <listEvent>
+     <event type="firstPerf" when="1868-02-10" source="textNic" where="Surrey">
+      <desc>Premiered at New Surrey Theatre 10 Feb. 1868</desc>
+     </event>
+    </listEvent>
+   </sourceDesc>
   </fileDesc>
-  
-  <profileDesc><!--M 2 Drama D. DRAMA--><textClass><catRef target="#sizeM"/><catRef target="#act2"/><catRef target="nic:D."/><keywords><term>DRAMA</term></keywords></textClass><particDesc><listPerson>
+
+  <profileDesc>
+   
+   <textClass>
+    <catRef target="#sizeM"/>
+    <catRef target="#act2"/>
+    <catRef target="nic:D."/>
+    <keywords>
+     <term>DRAMA</term>
+    </keywords>
+   </textClass>
+   <particDesc><listPerson>
   <person xml:id="L1188_M1">
    <persName type="role">Jack Trudget</persName>
    <persName type="spkr" n="164">Trudget.</persName>
@@ -71,7 +101,7 @@
    <persName type="spkr" n="4">Miss R.</persName>
   </person>
   <person xml:id="L1188_12">
-   <persName type="role">Farmers, Villagers, Guests, &amp;c., &amp;c.</persName>
+   <persName type="role">Farmers, Villagers, Guests, &amp;c., &amp;c</persName>
    <persName type="spkr" n="2">Bridegroom.</persName>
    <persName type="spkr" n="3">Brides.</persName>
    <persName type="spkr" n="1">Bridesmaids.</persName>
@@ -83,7 +113,10 @@
    <persName type="spkr" n="1">All.</persName>
    <persName type="spkr" n="1">Jack. and Bill.</persName>
   </person>
- </listPerson></particDesc></profileDesc><revisionDesc><change when="2026-02-23">Add wikidata link to titleStmt where possible</change>
+ </listPerson></particDesc>
+  </profileDesc>
+  <revisionDesc><change when="2026-04-03">Rewrite all particDescs</change>
+   <change when="2026-02-23">Add wikidata link to titleStmt where possible</change>
    <change when="2026-02-20">Standardize header components</change>
    <change when="2026-02-20">Hand edited and proofed against UM copy</change>
    <change when="2026-02-01">TEI autotagging by Gemini Pro 2.5</change>

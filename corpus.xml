@@ -32,8 +32,7 @@
       <change when="2026-02-14" status="proposed"/>
     </revisionDesc>
   </teiHeader>
- 
- <xi:include href="https://github.com/lb42/Lacy100/tei/abeckett-thelastofthelegends.xml"/>
+ <xi:include href="https://raw.githubusercontent.com/lb42/Lacy100/main/tei/abeckett-thelastofthelegends.xml"/>
  <xi:include href="https://github.com/lb42/Lacy100/tei/almar-olivertwist.xml"/>
  <xi:include href="https://github.com/lb42/Lacy100/tei/amherst-thebattleofwaterloo.xml"/>
  <xi:include href="https://github.com/lb42/Lacy100/tei/anon-maryprice.xml"/>

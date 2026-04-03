@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1500" xml:lang="en">
  <teiHeader>
   <fileDesc>
-   <titleStmt><title>Your Vote and Interest.: TEI edition</title><author ref="lacyp:W0193"><persName>Maltby, Alfred</persName><idno type="wikidata"/></author><respStmt><resp>TEI conversion</resp><name>Lou Burnard</name></respStmt></titleStmt>
+   <titleStmt><title>Your Vote and Interest.: TEI edition</title><author ref="lacyp:W0193"><persName>Maltby, Alfred</persName><idno type="wikidata">Q98755883</idno></author><respStmt><resp>TEI conversion</resp><name>Lou Burnard</name></respStmt></titleStmt>
    <publicationStmt><distributor>Privately distributed by the Digital Lacy Project</distributor><idno type="LAE">L1500</idno><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">The Lacy Project waives all rights to the TEI encoding applied to this material, which it believes to be in the public domain. You may copy, modify, distribute, or perform this work freely. </licence></availability></publicationStmt>
    <sourceDesc><bibl type="originalSource" n="100.15"><author>Maltby, C.A.</author> <title type="main" n="yourvoteandinterest">Your Vote and Interest</title> <title type="sub">An Electioneering
        Squib</title>
@@ -19,7 +19,7 @@
 
      </listEvent></sourceDesc>
   </fileDesc>
-  <profileDesc><!--S 0 X F. FARCE--><textClass><catRef target="#sizeS"/><catRef target="#act0"/><catRef target="nic:F."/><keywords><term>FARCE</term></keywords></textClass><particDesc><listPerson>
+  <profileDesc><textClass><catRef target="#sizeS"/><catRef target="#act0"/><catRef target="nic:F."/><keywords><term>FARCE</term></keywords></textClass><particDesc><listPerson>
   <person xml:id="L1500_M1">
    <persName type="role">Colonel Franchise</persName>
    <persName type="spkr" n="36">Col. F.</persName>
@@ -63,7 +63,7 @@
 
 
 
- </listPerson></particDesc></profileDesc><revisionDesc><change when="2026-02-24">Add wikidata link to titleStmt where possible</change><change when="2026-01-11">Standardize header components</change><change when="2026-01-10">Metadata refreshed from catalogue and Partix folder</change><change when="2025-12-16">Metadata refreshed from catalogue and Partix folder</change>
+ </listPerson></particDesc></profileDesc><revisionDesc><change when="2026-04-03">Rewrite all particDescs</change><change when="2026-02-24">Add wikidata link to titleStmt where possible</change><change when="2026-01-11">Standardize header components</change><change when="2026-01-10">Metadata refreshed from catalogue and Partix folder</change><change when="2025-12-16">Metadata refreshed from catalogue and Partix folder</change>
    <change when="2025-12-08">Auto-tagged by Gemini 3.0 (Flash 2.5)</change>
   </revisionDesc>
  </teiHeader>
