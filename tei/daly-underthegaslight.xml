@@ -18,29 +18,12 @@
       domain. You may copy, modify, distribute, or perform this work freely. </licence>
     </availability>
    </publicationStmt>
-   <sourceDesc>
-    <bibl type="originalSource" n="81.1"><author>Daly, Augustin</author>
-     <title type="main" n="underthegaslight">Under the Gaslight; or, Life and Love in These
-      Times</title>
-     <title type="sub">An Original Drama of American Life in four acts</title>
-     <extent>61 pp (UM copy: 6 - 67)<measure type="pp" quantity="59"/>
-      <measure type="spCount" quantity="950"/>
-      <measure type="spvCount" quantity="1"/>
-      <measure type="txWords" quantity="19911"/>
-      <measure type="spWords" quantity="16251"/>
-      <measure type="stWords" quantity="3660"/>
-     </extent>
-     <title level="s"> Lacy's Acting Edition, volume 81, No. 1201</title><idno type="nic">N11390</idno><idno type="vpp">Vol81iUnder</idno></bibl>
-    <bibl type="surrogate" subtype="copytext"><ref target="https://lb42.github.io/Lacy/Source/VPP/L1201-vpp.pdf">LoB from VPP</ref><ref target="local:Vol81/L1201/L1201-vpp.pdf"/><ref target="local:Vol81/L1201/Vol81iUnder.pdf"/></bibl>
-    <bibl type="surrogate"><ref target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015067453442&amp;seq=6 ">UM from
-      HT</ref><ref target="local:Vol81/L1201/L1201-um.pdf"/></bibl>
-    <listEvent>
-     <event type="firstPerf" when="1867-10" source="text" where="York">
-      <desc>Premiered at New York Theatre in the months of August, September and October, 1867;
-       Nicoll date 1867-08-12</desc>
-     </event>
-    </listEvent>
-   </sourceDesc>
+   <sourceDesc><bibl type="originalSource" n="81.1"><author n="W0076">Daly, Augustin</author>
+      <title type="main">Under the Gaslight; or, Life and Love in These Times</title>
+      <title type="sub">An Original Drama of American Life in four acts</title><extent>61 pp (UM
+       copy: 6 - 67)</extent>
+      <title level="s"> Lacy's Acting Edition, volume 81, No. 1201</title><idno type="nic">N11390</idno><idno type="vpp">Vol81iUnder</idno></bibl><bibl type="surrogate" subtype="copytext"><ref target="https://lb42.github.io/Lacy/Source/VPP/L1201-vpp.pdf">LoB from VPP</ref><ref target="local:Vol81/L1201/L1201-vpp.pdf"/><ref target="local:Vol81/L1201/Vol81iUnder.pdf"/></bibl><bibl type="surrogate"><ref target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015067453442&amp;seq=6 ">UM from
+       HT</ref><ref target="local:Vol81/L1201/L1201-um.pdf"/></bibl><bibl type="wikidata"><idno>Q48989204</idno></bibl></sourceDesc>
   </fileDesc>
   <profileDesc>
    
@@ -157,7 +140,7 @@
   </person>
  </listPerson></particDesc>
   </profileDesc>
-  <revisionDesc><change when="2026-04-03">Rewrite all particDescs</change>
+  <revisionDesc><change when="2026-04-06">Refresh sourceDesc from catalogue</change><change when="2026-04-03">Rewrite all particDescs</change>
    <change when="2026-02-24">Add wikidata link to titleStmt where possible</change>
    <change when="2026-01-25">Standardize header components</change>
    <change when="2026-01-25">TEI autotagging by Gemini Pro 2.5</change>
